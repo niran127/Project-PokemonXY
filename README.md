@@ -14,6 +14,14 @@ All trademarks and registered trademarks are the property of their respective ow
 * All sprites AKA images used for each data item comes from [pokemonshowdown](https://play.pokemonshowdown.com/sprites/gen6/)
 * Each JSON file will be put in the [json formatter](https://jsonformatter.org/json-pretty-print) to ensure a clean and clear look
 ## Name code guideline:
+- **locID** = location ID formatted as follows: ('Location code' '-' 'id number') -> eg.: (CeK-001)
 - **CeK** = Central Kalos
 - **CoK** = Coastal Kalos
 - **MoK** = Mountain Kalos
+## Typechart
+Each type is listed in the typechart.json and categorised as follows:
+- **superEffective** = every type listed here takes double damage from any attack 
+- **notVeryEffective** = every type listed here only takes half of the original damage
+- **noEffect** = every type listed here takes NO damage at all
+<br>For a visual representation, please refer to the typechart
+<br><img src="https://github.com/niran127/Project-PokemonXY/blob/main/PokemonXY/assets/pkmType/typechart.png" alt="Pokémon type chart" width="600">
