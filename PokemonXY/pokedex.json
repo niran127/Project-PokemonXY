@@ -3,6 +3,8 @@
     "locId": "CeK-001",
     "natId": "0650",
     "name": "Chespin",
+    "baseExp": 63,
+    "introducedAt": "2013-10-12", 
     "img": "https://raw.githubusercontent.com/niran127/Project-PokemonXY/refs/heads/main/PokemonXY/assets/pkmIMG/chespin.png",
     "type": [
       "Grass"
@@ -11,12 +13,14 @@
       {
         "locId": "CeK-002",
         "natId": "0651",
-        "name": "Quilladin"
+        "name": "Quilladin",
+        "baseExp": 142
       },
       {
         "locId": "CeK-003",
         "natId": "0652",
-        "name": "Chesnaught"
+        "name": "Chesnaught",
+        "baseExp": 265
       }
     ],
     "location": {
@@ -30,6 +34,8 @@
     "locId": "CeK-002",
     "natId": "0651",
     "name": "Quilladin",
+    "baseExp": 142,
+    "introducedAt": "2013-10-12", 
     "img": "https://raw.githubusercontent.com/niran127/Project-PokemonXY/refs/heads/main/PokemonXY/assets/pkmIMG/quilladin.png",
     "type": [
       "Grass"
@@ -38,7 +44,8 @@
       {
         "locId": "CeK-003",
         "natId": "0652",
-        "name": "Chesnaught"
+        "name": "Chesnaught",
+        "baseExp": 265
       }
     ],
     "location": {
@@ -52,6 +59,8 @@
     "locId": "CeK-003",
     "natId": "0652",
     "name": "Chesnaught",
+    "baseExp": 265,
+    "introducedAt": "2013-10-12",
     "img": "https://raw.githubusercontent.com/niran127/Project-PokemonXY/refs/heads/main/PokemonXY/assets/pkmIMG/chesnaught.png",
     "type": [
       "Grass",
@@ -69,6 +78,8 @@
     "locId": "CeK-004",
     "natId": "0653",
     "name": "Fennekin",
+    "baseExp": 61,
+    "introducedAt": "2013-10-12",
     "img": "https://raw.githubusercontent.com/niran127/Project-PokemonXY/refs/heads/main/PokemonXY/assets/pkmIMG/fennekin.png",
     "type": [
       "Fire"
@@ -77,12 +88,14 @@
       {
         "locId": "CeK-005",
         "natId": "0654",
-        "name": "Braixen"
+        "name": "Braixen",
+        "baseExp": 143
       },
       {
         "locId": "CeK-006",
         "natId": "0655",
-        "name": "Delphox"
+        "name": "Delphox",
+        "baseExp": 267
       }
     ],
     "location": {
@@ -96,6 +109,8 @@
     "locId": "CeK-005",
     "natId": "0654",
     "name": "Braixen",
+    "baseExp": 143,
+    "introducedAt": "2013-10-12",
     "img": "https://raw.githubusercontent.com/niran127/Project-PokemonXY/refs/heads/main/PokemonXY/assets/pkmIMG/braixen.png",
     "type": [
       "Fire"
@@ -104,7 +119,8 @@
       {
         "locId": "CeK-006",
         "natId": "0655",
-        "name": "Delphox"
+        "name": "Delphox",
+        "baseExp": 267
       }
     ],
     "location": {
@@ -118,6 +134,8 @@
     "locId": "CeK-006",
     "natId": "0655",
     "name": "Delphox",
+    "baseExp": 267,
+    "introducedAt": "2013-10-12",
     "img": "https://raw.githubusercontent.com/niran127/Project-PokemonXY/refs/heads/main/PokemonXY/assets/pkmIMG/delphox.png",
     "type": [
       "Fire",
@@ -135,6 +153,8 @@
     "locId": "CeK-007",
     "natId": "0656",
     "name": "Froakie",
+    "baseExp": 63,
+    "introducedAt": "2013-10-12",
     "img": "https://raw.githubusercontent.com/niran127/Project-PokemonXY/refs/heads/main/PokemonXY/assets/pkmIMG/froakie.png",
     "type": [
       "Water"
@@ -143,12 +163,14 @@
       {
         "locId": "CeK-008",
         "natId": "0657",
-        "name": "Frogadier"
+        "name": "Frogadier",
+        "baseExp": 142
       },
       {
         "locId": "CeK-009",
         "natId": "0658",
-        "name": "Greninja"
+        "name": "Greninja",
+        "baseExp": 265
       }
     ],
     "location": {
@@ -162,6 +184,8 @@
     "locId": "CeK-008",
     "natId": "0657",
     "name": "Frogadier",
+    "baseExp": 142,
+    "introducedAt": "2013-10-12",
     "img": "https://raw.githubusercontent.com/niran127/Project-PokemonXY/refs/heads/main/PokemonXY/assets/pkmIMG/frogadier.png",
     "type": [
       "Water"
@@ -170,7 +194,8 @@
       {
         "locId": "CeK-009",
         "natId": "0658",
-        "name": "Greninja"
+        "name": "Greninja",
+        "baseExp": 265
       }
     ],
     "location": {
@@ -184,6 +209,8 @@
     "locId": "CeK-009",
     "natId": "0658",
     "name": "Greninja",
+    "baseExp": 265,
+    "introducedAt": "2013-10-12",
     "img": "https://raw.githubusercontent.com/niran127/Project-PokemonXY/refs/heads/main/PokemonXY/assets/pkmIMG/greninja.png",
     "type": [
       "Water",
@@ -201,6 +228,8 @@
     "locId": "CeK-083",
     "natId": "0004",
     "name": "Charmander",
+    "baseExp": 62,
+    "introducedAt": "1996-02-27",
     "img": "https://raw.githubusercontent.com/niran127/Project-PokemonXY/refs/heads/main/PokemonXY/assets/pkmIMG/charmander.png",
     "type": [
       "Fire"
@@ -209,12 +238,14 @@
       {
         "locId": "CeK-084",
         "natId": "0005",
-        "name": "Charmeleon"
+        "name": "Charmeleon",
+        "baseExp": 142
       },
       {
         "locId": "CeK-085",
         "natId": "0006",
-        "name": "Charizard"
+        "name": "Charizard",
+        "baseExp": 267
       }
     ],
     "location": {
@@ -228,6 +259,8 @@
     "locId": "CeK-084",
     "natId": "0005",
     "name": "Charmeleon",
+    "baseExp": 142,
+    "introducedAt": "1996-02-27",
     "img": "https://raw.githubusercontent.com/niran127/Project-PokemonXY/refs/heads/main/PokemonXY/assets/pkmIMG/charmeleon.png",
     "type": [
       "Fire"
@@ -236,7 +269,8 @@
       {
         "locId": "CeK-085",
         "natId": "0006",
-        "name": "Charizard"
+        "name": "Charizard",
+        "baseExp": 267
       }
     ],
     "location": {
@@ -250,6 +284,8 @@
     "locId": "CeK-085",
     "natId": "0006",
     "name": "Charizard",
+    "baseExp": 267,
+    "introducedAt": "1996-02-27",
     "img": "https://raw.githubusercontent.com/niran127/Project-PokemonXY/refs/heads/main/PokemonXY/assets/pkmIMG/charizard.png",
     "type": [
       "Fire",
