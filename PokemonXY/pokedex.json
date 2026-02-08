@@ -3,146 +3,300 @@
     "id": "CeK-001",
     "natId": "0650",
     "name": "Chespin",
-    "img": "https://play.pokemonshowdown.com/sprites/gen6/chespin.png",
-    "type": ["Grass"],
-    "weaknesses": [""],
-    "evolutions": [
-      {"id": "CeK-002",
-    "natId": "0651",
-    "name": "Quiladin"}
+    "img": "https://raw.githubusercontent.com/niran127/Project-PokemonXY/refs/heads/main/PokemonXY/assets/pkmIMG/chespin.png",
+    "type": [
+      "Grass"
     ],
-     "location": {}
+    "weaknesses": [
+      ""
+    ],
+    "evolutions": [
+      {
+        "id": "CeK-002",
+        "natId": "0651",
+        "name": "Quilladin"
+      },
+      {
+        "id": "CeK-003",
+        "natId": "0652",
+        "name": "Chesnaught"
+      }
+    ],
+    "location": {
+      "id": "STARTER",
+      "name": "Starter Pokémon",
+      "locationType": "Gift"
+    },
+    "description": "Chespin is a Grass-type Pokémon and one of the starter Pokémon in the Kalos region. Its head is covered by a tough shell-like hood that can deflect powerful blows."
   },
   {
     "id": "CeK-002",
     "natId": "0651",
-    "name": "Quiladin",
-    "img": "https://play.pokemonshowdown.com/sprites/gen6/quiladin.png",
-    "type": ["Grass"],
-    "weaknesses": [""],
-    "evolutions": [
-      {}
+    "name": "Quilladin",
+    "img": "https://raw.githubusercontent.com/niran127/Project-PokemonXY/refs/heads/main/PokemonXY/assets/pkmIMG/quilladin.png",
+    "type": [
+      "Grass"
     ],
-     "location": {}
+    "weaknesses": [
+      ""
+    ],
+    "evolutions": [
+      {
+        "id": "CeK-003",
+        "natId": "0652",
+        "name": "Chesnaught"
+      }
+    ],
+    "location": {
+      "id": "STARTER",
+      "name": "Starter Pokémon",
+      "locationType": "Gift"
+    },
+    "description": "Quiladin is the evolved form of Chespin. The shell on its back is so tough that even a direct hit from a truck wouldn't faze it."
   },
   {
     "id": "CeK-003",
     "natId": "0652",
     "name": "Chesnaught",
     "img": "https://play.pokemonshowdown.com/sprites/gen6/chesnaught.png",
-    "type": ["Grass", "Fighting"],
-    "weaknesses": [""],
-    "evolutions": [
-      {}
+    "type": [
+      "Grass",
+      "Fighting"
     ],
-     "location": {}
+    "weaknesses": [
+      ""
+    ],
+    "evolutions": [],
+    "location": {
+      "id": "STARTER",
+      "name": "Starter Pokémon",
+      "locationType": "Gift"
+    },
+    "description": "Chesnaught is a Grass/Fighting-type Pokémon. When it takes a defensive posture, it can withstand a bomb blast."
   },
   {
     "id": "CeK-004",
     "natId": "0653",
     "name": "Fennekin",
     "img": "https://play.pokemonshowdown.com/sprites/gen6/fennekin.png",
-    "type": ["Fire"],
-    "weaknesses": [""],
-    "evolutions": [
-      {}
+    "type": [
+      "Fire"
     ],
-     "location": {}
+    "weaknesses": [
+      ""
+    ],
+    "evolutions": [
+      {
+        "id": "CeK-005",
+        "natId": "0654",
+        "name": "Braixen"
+      },
+      {
+        "id": "CeK-006",
+        "natId": "0655",
+        "name": "Delphox"
+      }
+    ],
+    "location": {
+      "id": "STARTER",
+      "name": "Starter Pokémon",
+      "locationType": "Gift"
+    },
+    "description": "Fennekin is a Fire-type starter Pokémon. It expels hot air that can reach over 390 degrees Fahrenheit from its ears."
   },
   {
     "id": "CeK-005",
     "natId": "0654",
     "name": "Braixen",
     "img": "https://play.pokemonshowdown.com/sprites/gen6/braixen.png",
-    "type": ["Fire"],
-    "weaknesses": [""],
-    "evolutions": [
-      {}
+    "type": [
+      "Fire"
     ],
-     "location": {}
+    "weaknesses": [
+      ""
+    ],
+    "evolutions": [
+      {
+        "id": "CeK-006",
+        "natId": "0655",
+        "name": "Delphox"
+      }
+    ],
+    "location": {
+      "id": "STARTER",
+      "name": "Starter Pokémon",
+      "locationType": "Gift"
+    },
+    "description": "Braixen has a twig stuck in its tail that it uses as a wand, which can ignite at over 750 degrees Fahrenheit."
   },
   {
     "id": "CeK-006",
     "natId": "0655",
     "name": "Delphox",
     "img": "https://play.pokemonshowdown.com/sprites/gen6/delphox.png",
-    "type": ["Fire", "Psychic"],
-    "weaknesses": [""],
-    "evolutions": [
-      {}
+    "type": [
+      "Fire",
+      "Psychic"
     ],
-     "location": {}
+    "weaknesses": [
+      ""
+    ],
+    "evolutions": [],
+    "location": {
+      "id": "STARTER",
+      "name": "Starter Pokémon",
+      "locationType": "Gift"
+    },
+    "description": "Delphox is a Fire/Psychic-type Pokémon. It can use psychic power to create a fiery vortex of 5,400 degrees Fahrenheit."
   },
   {
     "id": "CeK-007",
     "natId": "0656",
     "name": "Froakie",
     "img": "https://play.pokemonshowdown.com/sprites/gen6/froakie.png",
-    "type": ["Water"],
-    "weaknesses": [""],
-    "evolutions": [
-      {}
+    "type": [
+      "Water"
     ],
-     "location": {}
+    "weaknesses": [
+      ""
+    ],
+    "evolutions": [
+      {
+        "id": "CeK-008",
+        "natId": "0657",
+        "name": "Frogadier"
+      },
+      {
+        "id": "CeK-009",
+        "natId": "0658",
+        "name": "Greninja"
+      }
+    ],
+    "location": {
+      "id": "STARTER",
+      "name": "Starter Pokémon",
+      "locationType": "Gift"
+    },
+    "description": "Froakie is a Water-type starter. It secretes flexible bubbles from its chest and back that reduce damage from attacks."
   },
   {
     "id": "CeK-008",
     "natId": "0657",
     "name": "Frogadier",
     "img": "https://play.pokemonshowdown.com/sprites/gen6/frogadier.png",
-    "type": ["Water"],
-    "weaknesses": [""],
-    "evolutions": [
-      {}
+    "type": [
+      "Water"
     ],
-     "location": {}
+    "weaknesses": [
+      ""
+    ],
+    "evolutions": [
+      {
+        "id": "CeK-009",
+        "natId": "0658",
+        "name": "Greninja"
+      }
+    ],
+    "location": {
+      "id": "STARTER",
+      "name": "Starter Pokémon",
+      "locationType": "Gift"
+    },
+    "description": "Frogadier can throw bubble-covered pebbles with the force of bullets and moves with ninja-like swiftness."
   },
   {
     "id": "CeK-009",
     "natId": "0658",
     "name": "Greninja",
     "img": "https://play.pokemonshowdown.com/sprites/gen6/greninja.png",
-    "type": ["Grass"],
-    "weaknesses": [""],
-    "evolutions": [
-      {}
+    "type": [
+      "Water",
+      "Dark"
     ],
-     "location": {}
+    "weaknesses": [
+      ""
+    ],
+    "evolutions": [],
+    "location": {
+      "id": "STARTER",
+      "name": "Starter Pokémon",
+      "locationType": "Gift"
+    },
+    "description": "Greninja creates throwing stars out of compressed water that can split metal in two at high speed."
   },
   {
     "id": "CeK-083",
     "natId": "0004",
     "name": "Charmander",
     "img": "https://play.pokemonshowdown.com/sprites/gen6/charmander.png",
-    "type": ["Fire"],
-    "weaknesses": [""],
-    "evolutions": [
-      {}
+    "type": [
+      "Fire"
     ],
-     "location": {}
+    "weaknesses": [
+      ""
+    ],
+    "evolutions": [
+      {
+        "id": "CeK-084",
+        "natId": "0005",
+        "name": "Charmeleon"
+      },
+      {
+        "id": "CeK-085",
+        "natId": "0006",
+        "name": "Charizard"
+      }
+    ],
+    "location": {
+      "id": "GIFT",
+      "name": "Gift from Professor Sycamore",
+      "locationType": "Gift"
+    },
+    "description": "Charmander's tail flame indicates its life force. If it goes out, Charmander dies."
   },
   {
     "id": "CeK-084",
     "natId": "0005",
     "name": "Charmeleon",
     "img": "https://play.pokemonshowdown.com/sprites/gen6/charmeleon.png",
-    "type": ["Fire"],
-    "weaknesses": [""],
-    "evolutions": [
-      {}
+    "type": [
+      "Fire"
     ],
-     "location": {}
+    "weaknesses": [
+      ""
+    ],
+    "evolutions": [
+      {
+        "id": "CeK-085",
+        "natId": "0006",
+        "name": "Charizard"
+      }
+    ],
+    "location": {
+      "id": "GIFT",
+      "name": "Gift from Professor Sycamore",
+      "locationType": "Gift"
+    },
+    "description": "Charmeleon mercilessly destroys its foes using its sharp claws and becomes excited when it faces a strong opponent."
   },
   {
     "id": "CeK-085",
     "natId": "0006",
     "name": "Charizard",
     "img": "https://play.pokemonshowdown.com/sprites/gen6/charizard.png",
-    "type": ["Fire", "Flying"],
-    "weaknesses": [""],
-    "evolutions": [
-      {}
+    "type": [
+      "Fire",
+      "Flying"
     ],
-     "location": {}
+    "weaknesses": [
+      ""
+    ],
+    "evolutions": [],
+    "location": {
+      "id": "GIFT",
+      "name": "Gift from Professor Sycamore",
+      "locationType": "Gift"
+    },
+    "description": "Charizard flies in search of strong opponents and breathes fire hot enough to melt rocks."
   }
 ]

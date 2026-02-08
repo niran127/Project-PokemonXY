@@ -1,194 +1,68 @@
 [
   {
+    "id": "STARTER",
+    "name": "Starter Pokémon",
+    "description": "This pokemon, along with two others, is provided as choice to a beginning trainer as starter.",
+    "locationType": "Gift"
+  },
+  {
     "id": "LOC-001",
     "name": "Route 2 (Avance Trail)",
     "description": "A straightforward route connecting Aquacorde Town to Santalune Forest. This is the first location where trainers encounter wild Pokémon in tall grass. The route features several patches of grass and a river running along the western side.",
-    "pokemon": [
-      "Bunnelby",
-      "Fletchling",
-      "Caterpie",
-      "Weedle",
-      "Pidgey",
-      "Zigzagoon",
-      "Scatterbug"
-    ]
+    "locationType": "Route"
   },
   {
     "id": "LOC-002",
     "name": "Santalune Forest",
     "description": "A lush forest located between Route 2 and Route 3. Rays of light shine through the thick canopy where a vast variety of Pokémon can be found. Its internal layout is similar to Viridian Forest in Kanto.",
-    "pokemon": [
-      "Caterpie",
-      "Weedle",
-      "Scatterbug",
-      "Metapod",
-      "Kakuna",
-      "Pikachu",
-      "Pansear",
-      "Panpour",
-      "Pansage",
-      "Fletchling"
-    ]
+    "locationType": "Forest"
   },
   {
     "id": "LOC-003",
     "name": "Route 3 (Ouvert Way)",
     "description": "A short path linking Santalune Forest and Santalune City. The route features patches of tall grass, a body of water for surfing, and fishing spots. It's a great place for beginning trainers to build their team.",
-    "pokemon": [
-      "Bidoof",
-      "Bunnelby",
-      "Fletchling",
-      "Pidgey",
-      "Pikachu",
-      "Dunsparce",
-      "Azurill",
-      "Burmy",
-      "Marill",
-      "Masquerain",
-      "Gyarados",
-      "Crawdaunt",
-      "Seaking",
-      "Goldeen",
-      "Corphish",
-      "Magikarp"
-    ]
+    "locationType": "Route"
   },
   {
     "id": "LOC-004",
     "name": "Route 5 (Versant Road)",
     "description": "A scenic route with both regular grass and special purple flower patches. The route is home to diverse Pokémon including the Kalos-native Skiddo and Pancham. Trainers can find different encounters depending on which type of vegetation they explore.",
-    "pokemon": [
-      "Bunnelby",
-      "Furfrou",
-      "Abra",
-      "Doduo",
-      "Plusle",
-      "Minun",
-      "Gulpin",
-      "Skiddo",
-      "Pancham",
-      "Scraggy"
-    ]
+    "locationType": "Route"
   },
   {
     "id": "LOC-005",
     "name": "Glittering Cave",
     "description": "A mysterious cave with sparkling walls and multiple floors. The cave features both standard walking encounters and special shaking spots that reveal rarer Pokémon. Rock Smash can be used on breakable stones to find Rock and Ground-type Pokémon.",
-    "pokemon": [
-      "Woobat",
-      "Ferroseed",
-      "Onix",
-      "Dwebble",
-      "Machop",
-      "Rhyhorn",
-      "Kangaskhan",
-      "Mawile",
-      "Lunatone",
-      "Solrock",
-      "Cubone"
-    ]
+    "locationType": "Cave"
   },
   {
     "id": "LOC-006",
     "name": "Route 7 (Rivière Walk)",
     "description": "A route featuring berry fields with different colored trees and various flower patches. The area is known for its fairy-type encounters and the sleeping Snorlax blocking the path. Different colored flowers attract different Pokémon species.",
-    "pokemon": [
-      "Croagunk",
-      "Smeargle",
-      "Roselia",
-      "Ducklett",
-      "Flabébé",
-      "Volbeat",
-      "Illumise",
-      "Spritzee",
-      "Swirlix",
-      "Psyduck",
-      "Hoppip",
-      "Ledyba",
-      "Burmy",
-      "Combee",
-      "Spewpa",
-      "Snorlax"
-    ]
+    "locationType": "Route"
   },
   {
     "id": "LOC-007",
     "name": "Route 10 (Menhir Trail)",
     "description": "A route marked by ancient standing stones and mysterious structures. The area features both regular grass and special yellow flower patches. Home to the popular Eevee and various Electric and Dark-type Pokémon.",
-    "pokemon": [
-      "Sigilyph",
-      "Golett",
-      "Eevee",
-      "Snubbull",
-      "Houndour",
-      "Electrike",
-      "Emolga",
-      "Hawlucha",
-      "Yanma",
-      "Nosepass"
-    ]
+    "locationType": "Route"
   },
   {
     "id": "LOC-008",
     "name": "Azure Bay",
     "description": "A beautiful coastal area with sandy beaches and crystal-clear waters. The bay is perfect for water-type encounters and features diverse marine life. Trainers can surf, fish, and use Rock Smash on coastal rocks to find various Pokémon.",
-    "pokemon": [
-      "Slowpoke",
-      "Chatot",
-      "Exeggcute",
-      "Inkay",
-      "Wingull",
-      "Tentacool",
-      "Lapras",
-      "Mantyke",
-      "Alomomola",
-      "Lanturn",
-      "Octillery",
-      "Remoraid",
-      "Chinchou",
-      "Luvdisc",
-      "Dwebble",
-      "Binacle"
-    ]
+    "locationType": "Bay"
   },
   {
     "id": "LOC-009",
     "name": "Frost Cavern",
     "description": "A frigid three-floor cave covered in ice and snow. The cavern is home to many Ice-type Pokémon and features frozen waterfalls and icy passages. Team Flare can be encountered here, and trainers must navigate carefully through the slippery floors.",
-    "pokemon": [
-      "Piloswine",
-      "Beartic",
-      "Bergmite",
-      "Cryogonal",
-      "Haunter",
-      "Jynx",
-      "Vanillite",
-      "Smoochum",
-      "Cubchoo",
-      "Poliwhirl",
-      "Floatzel",
-      "Basculin",
-      "Poliwag"
-    ]
+    "locationType": "Cave"
   },
   {
     "id": "LOC-010",
     "name": "Route 15 (Brun Way)",
     "description": "A darker route with an ominous atmosphere, connecting to the Lost Hotel. The route features both regular tall grass and distinctive red flower patches. Known for Dark-type and Poison-type encounters, as well as the elusive Klefki.",
-    "pokemon": [
-      "Mightyena",
-      "Skorupi",
-      "Liepard",
-      "Watchog",
-      "Foongus",
-      "Pawniard",
-      "Klefki",
-      "Murkrow",
-      "Lombre",
-      "Floatzel",
-      "Poliwhirl",
-      "Basculin",
-      "Poliwag"
-    ]
+    "locationType": "Route"
   }
 ]

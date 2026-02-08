@@ -11,7 +11,8 @@ This project is not affiliated with, endorsed by, or sponsored by The Pokémon C
 All trademarks and registered trademarks are the property of their respective owners.
 ## Source
 * All ID's and information for each individual pokemon originates from the official [pokemon database](https://pokemondb.net/pokedex/game/x-y)
-* All sprites AKA images used for each data item comes from [here](https://play.pokemonshowdown.com/sprites/gen6/)
+* All sprites AKA images used for each data item comes from [pokemonshowdown](https://play.pokemonshowdown.com/sprites/gen6/)
+* Each JSON file will be put in the [json formatter](https://jsonformatter.org/json-pretty-print) to ensure a clean and clear look
 ## Name code guideline:
 - **CeK** = Central Kalos
 - **CoK** = Coastal Kalos
