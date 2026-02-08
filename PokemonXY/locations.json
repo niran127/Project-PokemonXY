@@ -1,0 +1,91 @@
+[
+  {
+    "id": "LOC-001",
+    "name": "Route 2 (Avance Trail)",
+    "description": "A straightforward route connecting Aquacorde Town to Santalune Forest. This is the first location where trainers encounter wild Pokémon in tall grass. The route features several patches of grass and a river running along the western side.",
+    "pokemon": [
+      "Bunnelby",
+      "Fletchling",
+      "Caterpie",
+      "Weedle",
+      "Pidgey",
+      "Zigzagoon",
+      "Scatterbug"
+    ]
+  },
+  {
+    "id": "LOC-002",
+    "name": "Santalune Forest",
+    "description": "A lush forest located between Route 2 and Route 3. Rays of light shine through the thick canopy where a vast variety of Pokémon can be found. Its internal layout is similar to Viridian Forest in Kanto.",
+    "pokemon": [
+      "Caterpie",
+      "Weedle",
+      "Scatterbug",
+      "Metapod",
+      "Kakuna",
+      "Pikachu",
+      "Pansear",
+      "Panpour",
+      "Pansage",
+      "Fletchling"
+    ]
+  },
+  {
+    "id": "LOC-003",
+    "name": "Route 3 (Ouvert Way)",
+    "description": "A short path linking Santalune Forest and Santalune City. The route features patches of tall grass, a body of water for surfing, and fishing spots. It's a great place for beginning trainers to build their team.",
+    "pokemon": [
+      "Bidoof",
+      "Bunnelby",
+      "Fletchling",
+      "Pidgey",
+      "Pikachu",
+      "Dunsparce",
+      "Azurill",
+      "Burmy",
+      "Marill",
+      "Masquerain",
+      "Gyarados",
+      "Crawdaunt",
+      "Seaking",
+      "Goldeen",
+      "Corphish",
+      "Magikarp"
+    ]
+  },
+  {
+    "id": "LOC-004",
+    "name": "Route 5 (Versant Road)",
+    "description": "A scenic route with both regular grass and special purple flower patches. The route is home to diverse Pokémon including the Kalos-native Skiddo and Pancham. Trainers can find different encounters depending on which type of vegetation they explore.",
+    "pokemon": [
+      "Bunnelby",
+      "Furfrou",
+      "Abra",
+      "Doduo",
+      "Plusle",
+      "Minun",
+      "Gulpin",
+      "Skiddo",
+      "Pancham",
+      "Scraggy"
+    ]
+  },
+  {
+    "id": "LOC-005",
+    "name": "Glittering Cave",
+    "description": "A mysterious cave with sparkling walls and multiple floors. The cave features both standard walking encounters and special shaking spots that reveal rarer Pokémon. Rock Smash can be used on breakable stones to find Rock and Ground-type Pokémon.",
+    "pokemon": [
+      "Woobat",
+      "Ferroseed",
+      "Onix",
+      "Dwebble",
+      "Machop",
+      "Rhyhorn",
+      "Kangaskhan",
+      "Mawile",
+      "Lunatone",
+      "Solrock",
+      "Cubone"
+    ]
+  }
+]

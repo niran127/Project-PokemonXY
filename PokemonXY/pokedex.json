@@ -1,0 +1,148 @@
+[
+  {
+    "id": "CeK-001",
+    "natId": "0650",
+    "name": "Chespin",
+    "img": "https://play.pokemonshowdown.com/sprites/gen6/chespin.png",
+    "type": ["Grass"],
+    "weaknesses": [""],
+    "evolutions": [
+      {"id": "CeK-002",
+    "natId": "0651",
+    "name": "Quiladin"}
+    ],
+     "location": {}
+  },
+  {
+    "id": "CeK-002",
+    "natId": "0651",
+    "name": "Quiladin",
+    "img": "https://play.pokemonshowdown.com/sprites/gen6/quiladin.png",
+    "type": ["Grass"],
+    "weaknesses": [""],
+    "evolutions": [
+      {}
+    ],
+     "location": {}
+  },
+  {
+    "id": "CeK-003",
+    "natId": "0652",
+    "name": "Chesnaught",
+    "img": "https://play.pokemonshowdown.com/sprites/gen6/chesnaught.png",
+    "type": ["Grass", "Fighting"],
+    "weaknesses": [""],
+    "evolutions": [
+      {}
+    ],
+     "location": {}
+  },
+  {
+    "id": "CeK-004",
+    "natId": "0653",
+    "name": "Fennekin",
+    "img": "https://play.pokemonshowdown.com/sprites/gen6/fennekin.png",
+    "type": ["Fire"],
+    "weaknesses": [""],
+    "evolutions": [
+      {}
+    ],
+     "location": {}
+  },
+  {
+    "id": "CeK-005",
+    "natId": "0654",
+    "name": "Braixen",
+    "img": "https://play.pokemonshowdown.com/sprites/gen6/braixen.png",
+    "type": ["Fire"],
+    "weaknesses": [""],
+    "evolutions": [
+      {}
+    ],
+     "location": {}
+  },
+  {
+    "id": "CeK-006",
+    "natId": "0655",
+    "name": "Delphox",
+    "img": "https://play.pokemonshowdown.com/sprites/gen6/delphox.png",
+    "type": ["Fire", "Psychic"],
+    "weaknesses": [""],
+    "evolutions": [
+      {}
+    ],
+     "location": {}
+  },
+  {
+    "id": "CeK-007",
+    "natId": "0656",
+    "name": "Froakie",
+    "img": "https://play.pokemonshowdown.com/sprites/gen6/froakie.png",
+    "type": ["Water"],
+    "weaknesses": [""],
+    "evolutions": [
+      {}
+    ],
+     "location": {}
+  },
+  {
+    "id": "CeK-008",
+    "natId": "0657",
+    "name": "Frogadier",
+    "img": "https://play.pokemonshowdown.com/sprites/gen6/frogadier.png",
+    "type": ["Water"],
+    "weaknesses": [""],
+    "evolutions": [
+      {}
+    ],
+     "location": {}
+  },
+  {
+    "id": "CeK-009",
+    "natId": "0658",
+    "name": "Greninja",
+    "img": "https://play.pokemonshowdown.com/sprites/gen6/greninja.png",
+    "type": ["Grass"],
+    "weaknesses": [""],
+    "evolutions": [
+      {}
+    ],
+     "location": {}
+  },
+  {
+    "id": "CeK-083",
+    "natId": "0004",
+    "name": "Charmander",
+    "img": "https://play.pokemonshowdown.com/sprites/gen6/charmander.png",
+    "type": ["Fire"],
+    "weaknesses": [""],
+    "evolutions": [
+      {}
+    ],
+     "location": {}
+  },
+  {
+    "id": "CeK-084",
+    "natId": "0005",
+    "name": "Charmeleon",
+    "img": "https://play.pokemonshowdown.com/sprites/gen6/charmeleon.png",
+    "type": ["Fire"],
+    "weaknesses": [""],
+    "evolutions": [
+      {}
+    ],
+     "location": {}
+  },
+  {
+    "id": "CeK-085",
+    "natId": "0006",
+    "name": "Charizard",
+    "img": "https://play.pokemonshowdown.com/sprites/gen6/charizard.png",
+    "type": ["Fire", "Flying"],
+    "weaknesses": [""],
+    "evolutions": [
+      {}
+    ],
+     "location": {}
+  }
+]
