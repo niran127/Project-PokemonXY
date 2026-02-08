@@ -58,7 +58,7 @@
     "id": "CeK-003",
     "natId": "0652",
     "name": "Chesnaught",
-    "img": "https://play.pokemonshowdown.com/sprites/gen6/chesnaught.png",
+    "img": "https://raw.githubusercontent.com/niran127/Project-PokemonXY/refs/heads/main/PokemonXY/assets/pkmIMG/chesnaught.png",
     "type": [
       "Grass",
       "Fighting"
@@ -78,7 +78,7 @@
     "id": "CeK-004",
     "natId": "0653",
     "name": "Fennekin",
-    "img": "https://play.pokemonshowdown.com/sprites/gen6/fennekin.png",
+    "img": "https://raw.githubusercontent.com/niran127/Project-PokemonXY/refs/heads/main/PokemonXY/assets/pkmIMG/fennekin.png",
     "type": [
       "Fire"
     ],
@@ -108,7 +108,7 @@
     "id": "CeK-005",
     "natId": "0654",
     "name": "Braixen",
-    "img": "https://play.pokemonshowdown.com/sprites/gen6/braixen.png",
+    "img": "https://raw.githubusercontent.com/niran127/Project-PokemonXY/refs/heads/main/PokemonXY/assets/pkmIMG/braixen.png",
     "type": [
       "Fire"
     ],
@@ -133,7 +133,7 @@
     "id": "CeK-006",
     "natId": "0655",
     "name": "Delphox",
-    "img": "https://play.pokemonshowdown.com/sprites/gen6/delphox.png",
+    "img": "https://raw.githubusercontent.com/niran127/Project-PokemonXY/refs/heads/main/PokemonXY/assets/pkmIMG/delphox.png",
     "type": [
       "Fire",
       "Psychic"
@@ -153,7 +153,7 @@
     "id": "CeK-007",
     "natId": "0656",
     "name": "Froakie",
-    "img": "https://play.pokemonshowdown.com/sprites/gen6/froakie.png",
+    "img": "https://raw.githubusercontent.com/niran127/Project-PokemonXY/refs/heads/main/PokemonXY/assets/pkmIMG/froakie.png",
     "type": [
       "Water"
     ],
@@ -183,7 +183,7 @@
     "id": "CeK-008",
     "natId": "0657",
     "name": "Frogadier",
-    "img": "https://play.pokemonshowdown.com/sprites/gen6/frogadier.png",
+    "img": "https://raw.githubusercontent.com/niran127/Project-PokemonXY/refs/heads/main/PokemonXY/assets/pkmIMG/frogadier.png",
     "type": [
       "Water"
     ],
@@ -208,7 +208,7 @@
     "id": "CeK-009",
     "natId": "0658",
     "name": "Greninja",
-    "img": "https://play.pokemonshowdown.com/sprites/gen6/greninja.png",
+    "img": "https://raw.githubusercontent.com/niran127/Project-PokemonXY/refs/heads/main/PokemonXY/assets/pkmIMG/greninja.png",
     "type": [
       "Water",
       "Dark"
@@ -228,7 +228,7 @@
     "id": "CeK-083",
     "natId": "0004",
     "name": "Charmander",
-    "img": "https://play.pokemonshowdown.com/sprites/gen6/charmander.png",
+    "img": "https://raw.githubusercontent.com/niran127/Project-PokemonXY/refs/heads/main/PokemonXY/assets/pkmIMG/charmander.png",
     "type": [
       "Fire"
     ],
@@ -258,7 +258,7 @@
     "id": "CeK-084",
     "natId": "0005",
     "name": "Charmeleon",
-    "img": "https://play.pokemonshowdown.com/sprites/gen6/charmeleon.png",
+    "img": "https://raw.githubusercontent.com/niran127/Project-PokemonXY/refs/heads/main/PokemonXY/assets/pkmIMG/charmeleon.png",
     "type": [
       "Fire"
     ],
@@ -283,7 +283,7 @@
     "id": "CeK-085",
     "natId": "0006",
     "name": "Charizard",
-    "img": "https://play.pokemonshowdown.com/sprites/gen6/charizard.png",
+    "img": "https://raw.githubusercontent.com/niran127/Project-PokemonXY/refs/heads/main/PokemonXY/assets/pkmIMG/charizard.png",
     "type": [
       "Fire",
       "Flying"
